@@ -3,7 +3,7 @@
 ![eth_image](Resources/eth_image.png)
 
 
-This is an Ethereum based digital wallet capable of sending and receiving digital assets to Fintech professionals for services rendered. 
+This is an Ethereum based digital wallet capable of sending and receiving digital assets to Fintech professionals for services rendered. I have built a streamlit.io Webb App that demonstrates the working code of an application called Fintech Finder. The user is able to choose a Fintech professional that they are interested in hiring, choose the number of hours that they want to contract out, then send the professional wages in the form of Ether. The webb app provides a validated transaction hash upon verification that the amount of Ether was sent sucessfully.
 
 
 ## Technologies
@@ -83,4 +83,4 @@ MIT
 
 ## Demo of Ganache Sender Account Contract Call 
 
-![trasaction_image](Resources/transaction_image.png)
+![transaction_image](Resources/transaction_image.png)
